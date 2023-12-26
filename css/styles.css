@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Sevillana&display=swap');
+
+.body {
+  background-image: url('./img/spring.jpeg') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+
+.text {
+  font-family: 'Dancing Script', cursive !important;
+  font-size: large;
+}
+
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Sevillana', cursive;
+}
+
+.cards {
+  margin: 10px 10px 10px 10px !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
